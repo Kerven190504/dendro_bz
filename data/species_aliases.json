@@ -1,0 +1,54 @@
+[
+  {
+    "alias_ru": "дуб",
+    "canonical_name_ru": "Дуб обыкновенный"
+  },
+  {
+    "alias_ru": "берёза",
+    "canonical_name_ru": "Берёза повислая"
+  },
+  {
+    "alias_ru": "береза",
+    "canonical_name_ru": "Берёза повислая"
+  },
+  {
+    "alias_ru": "сосна",
+    "canonical_name_ru": "Сосна обыкновенная"
+  },
+  {
+    "alias_ru": "ель",
+    "canonical_name_ru": "Ель европейская"
+  },
+  {
+    "alias_ru": "пихта",
+    "canonical_name_ru": "Пихта белая"
+  },
+  {
+    "alias_ru": "клён",
+    "canonical_name_ru": "Клён остролистный"
+  },
+  {
+    "alias_ru": "клен",
+    "canonical_name_ru": "Клён остролистный"
+  },
+  {
+    "alias_ru": "липа",
+    "canonical_name_ru": "Липа мелколистная"
+  },
+  {
+    "alias_ru": "тополь",
+    "canonical_name_ru": "Тополь чёрный"
+  },
+  {
+    "alias_ru": "ива",
+    "canonical_name_ru": "Ива белая"
+  },
+  {
+    "alias_ru": "вяз",
+    "canonical_name_ru": "Вяз гладкий"
+  },
+  {
+    "alias_ru": "ясень",
+    "canonical_name_ru": "Ясень обыкновенный"
+  }
+]

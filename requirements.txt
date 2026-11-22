@@ -1,0 +1,6 @@
+fastapi>=0.110
+uvicorn>=0.27
+requests>=2.31
+rapidfuzz>=3.6
+youtube-search-python==1.6.6   # поиск видео YouTube без ключей Google
+httpx==0.27.2                  # именно эта версия: с новыми httpx youtube-search-python падает с ошибкой "proxies"
